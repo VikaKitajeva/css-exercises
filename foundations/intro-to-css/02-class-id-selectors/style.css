@@ -1,18 +1,18 @@
 .Class {
-    background-color: rgb(227, 129, 159);
-    font-family: Verdana, "DejaVu Sans", sans-serif;
+  background-color: rgb(227, 129, 159);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .Font {
-    font-size: 24px;
+  font-size: 24px;
 }
 
 #OneId {
-    color: blue;
-    font-size: 36px;
+  color: blue;
+  font-size: 36px;
 }
 
 #AnotherId {
-    background-color: lightgreen;
-    font-weight: bold;
+  background-color: lightgreen;
+  font-weight: bold;
 }
